@@ -1,1 +1,1 @@
-# c-game
+A game in C++ with sounds and animation
